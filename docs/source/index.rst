@@ -1,4 +1,4 @@
-Bienvenue dans la documentation de Mon Projet !
+Bienvenue dans la documentation de Mon Projet On shelf avalibility detector !
 ===============================================
 
 .. toctree::
@@ -6,7 +6,6 @@ Bienvenue dans la documentation de Mon Projet !
    :caption: Sommaire
 
    introduction
-   installation
-   guide_utilisation
    modeles
-   
+   train_models_results
+   guide_utilisation
