@@ -5,6 +5,7 @@ Bienvenue dans la documentation de Mon Projet !
    :maxdepth: 2
    :caption: Sommaire
 
+   introduction
    installation
    guide_utilisation
    modeles
