@@ -61,7 +61,7 @@ Organisation Typique
 
     Mon Drive/
     └── CV_project/
-        ├── detection.ipynb
+        ├── Cv_project_marjan.ipynb
         ├── models/
         │   ├── shelf.pt
         │   ├── void.pt
@@ -83,4 +83,5 @@ Support
 -------
 
 - Pour toute question, me contactez abderrahmanessafi133@gamil.com .
+
 
